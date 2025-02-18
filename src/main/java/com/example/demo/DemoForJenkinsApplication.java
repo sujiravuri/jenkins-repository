@@ -14,11 +14,11 @@ public class DemoForJenkinsApplication {
 
 	LoggerFactory.getLogger(DemoForJenkinsApplication.class);
 
-	@PostConstruct
-	public void init()
-	{
-logger.info("Application Started....");
-	}
+//	@PostConstruct
+//	public void init()
+//	{
+//logger.info("Application Started....");
+//	}
 
 
 
